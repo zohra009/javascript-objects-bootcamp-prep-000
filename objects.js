@@ -1,1 +1,1 @@
-var playlist = []
+var playlist = {"what lovers do"
